@@ -1,0 +1,15 @@
+{
+    "flux": [
+        {
+            "name": "RSS Name",
+            "url": "RSS URL",
+            "refreshTime": 60000
+        }
+    ],
+    "webhooks": [
+        {
+            "url": "WebHook URL", 
+            "flux": ["RSS Name"]
+        }
+    ]
+}
